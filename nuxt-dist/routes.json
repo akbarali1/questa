@@ -1,0 +1,1073 @@
+[
+  {
+    "name": "admin___us",
+    "path": "/admin",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_674c9caa"
+  },
+  {
+    "name": "championship___us",
+    "path": "/championship",
+    "component": "/Users/akbarali/Projects/questa/pages/championship/index.vue",
+    "chunkName": "pages/championship/index",
+    "_name": "_39085600"
+  },
+  {
+    "name": "demo___us",
+    "path": "/demo",
+    "component": "/Users/akbarali/Projects/questa/pages/demo/index.vue",
+    "chunkName": "pages/demo/index",
+    "_name": "_242abc3e"
+  },
+  {
+    "name": "exchange___us",
+    "path": "/exchange",
+    "component": "/Users/akbarali/Projects/questa/pages/exchange/index.vue",
+    "chunkName": "pages/exchange/index",
+    "_name": "_28ab0704"
+  },
+  {
+    "name": "rating___us",
+    "path": "/rating",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/index.vue",
+    "chunkName": "pages/rating/index",
+    "_name": "_a4246110"
+  },
+  {
+    "name": "referal___us",
+    "path": "/referal",
+    "component": "/Users/akbarali/Projects/questa/pages/referal/index.vue",
+    "chunkName": "pages/referal/index",
+    "_name": "_ab21a1f4"
+  },
+  {
+    "name": "index___ru",
+    "path": "/ru",
+    "component": "/Users/akbarali/Projects/questa/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1e6ba92c"
+  },
+  {
+    "name": "settings___us",
+    "path": "/settings",
+    "component": "/Users/akbarali/Projects/questa/pages/settings/index.vue",
+    "chunkName": "pages/settings/index",
+    "_name": "_13722a7e"
+  },
+  {
+    "name": "surfing___us",
+    "path": "/surfing",
+    "component": "/Users/akbarali/Projects/questa/pages/surfing/index.vue",
+    "chunkName": "pages/surfing/index",
+    "_name": "_45505d27"
+  },
+  {
+    "name": "test___us",
+    "path": "/test",
+    "component": "/Users/akbarali/Projects/questa/pages/test/index.vue",
+    "chunkName": "pages/test/index",
+    "_name": "_58a8b42d"
+  },
+  {
+    "name": "index___uz",
+    "path": "/uz",
+    "component": "/Users/akbarali/Projects/questa/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1e6ba92c"
+  },
+  {
+    "name": "admin-championship___us",
+    "path": "/admin/championship",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/championship/index.vue",
+    "chunkName": "pages/admin/championship/index",
+    "_name": "_4337ecc0"
+  },
+  {
+    "name": "admin-demotest___us",
+    "path": "/admin/demotest",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/index.vue",
+    "chunkName": "pages/admin/demotest/index",
+    "_name": "_1ecd9f90"
+  },
+  {
+    "name": "admin-lang-question___us",
+    "path": "/admin/lang-question",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/lang-question/index.vue",
+    "chunkName": "pages/admin/lang-question/index",
+    "_name": "_4114d000"
+  },
+  {
+    "name": "admin-news___us",
+    "path": "/admin/news",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/index.vue",
+    "chunkName": "pages/admin/news/index",
+    "_name": "_22ea33ee"
+  },
+  {
+    "name": "admin-question___us",
+    "path": "/admin/question",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/index.vue",
+    "chunkName": "pages/admin/question/index",
+    "_name": "_c4c7ed7e"
+  },
+  {
+    "name": "admin-surfing___us",
+    "path": "/admin/surfing",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/surfing/index.vue",
+    "chunkName": "pages/admin/surfing/index",
+    "_name": "_5fed8e67"
+  },
+  {
+    "name": "auth-login___us",
+    "path": "/auth/login",
+    "component": "/Users/akbarali/Projects/questa/pages/auth/login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_54040cda"
+  },
+  {
+    "name": "auth-register___us",
+    "path": "/auth/register",
+    "component": "/Users/akbarali/Projects/questa/pages/auth/register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_7cb6b47c"
+  },
+  {
+    "name": "rating-championship___us",
+    "path": "/rating/championship",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/championship/index.vue",
+    "chunkName": "pages/rating/championship/index",
+    "_name": "_c7df8e9c"
+  },
+  {
+    "name": "rating-o___us",
+    "path": "/rating/o",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/o/index.vue",
+    "chunkName": "pages/rating/o/index",
+    "_name": "_111c0a58"
+  },
+  {
+    "name": "rating-referal___us",
+    "path": "/rating/referal",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/referal/index.vue",
+    "chunkName": "pages/rating/referal/index",
+    "_name": "_f12635d8"
+  },
+  {
+    "name": "admin___ru",
+    "path": "/ru/admin",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_674c9caa"
+  },
+  {
+    "name": "championship___ru",
+    "path": "/ru/championship",
+    "component": "/Users/akbarali/Projects/questa/pages/championship/index.vue",
+    "chunkName": "pages/championship/index",
+    "_name": "_39085600"
+  },
+  {
+    "name": "demo___ru",
+    "path": "/ru/demo",
+    "component": "/Users/akbarali/Projects/questa/pages/demo/index.vue",
+    "chunkName": "pages/demo/index",
+    "_name": "_242abc3e"
+  },
+  {
+    "name": "exchange___ru",
+    "path": "/ru/exchange",
+    "component": "/Users/akbarali/Projects/questa/pages/exchange/index.vue",
+    "chunkName": "pages/exchange/index",
+    "_name": "_28ab0704"
+  },
+  {
+    "name": "rating___ru",
+    "path": "/ru/rating",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/index.vue",
+    "chunkName": "pages/rating/index",
+    "_name": "_a4246110"
+  },
+  {
+    "name": "referal___ru",
+    "path": "/ru/referal",
+    "component": "/Users/akbarali/Projects/questa/pages/referal/index.vue",
+    "chunkName": "pages/referal/index",
+    "_name": "_ab21a1f4"
+  },
+  {
+    "name": "settings___ru",
+    "path": "/ru/settings",
+    "component": "/Users/akbarali/Projects/questa/pages/settings/index.vue",
+    "chunkName": "pages/settings/index",
+    "_name": "_13722a7e"
+  },
+  {
+    "name": "surfing___ru",
+    "path": "/ru/surfing",
+    "component": "/Users/akbarali/Projects/questa/pages/surfing/index.vue",
+    "chunkName": "pages/surfing/index",
+    "_name": "_45505d27"
+  },
+  {
+    "name": "test___ru",
+    "path": "/ru/test",
+    "component": "/Users/akbarali/Projects/questa/pages/test/index.vue",
+    "chunkName": "pages/test/index",
+    "_name": "_58a8b42d"
+  },
+  {
+    "name": "admin___uz",
+    "path": "/uz/admin",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_674c9caa"
+  },
+  {
+    "name": "championship___uz",
+    "path": "/uz/championship",
+    "component": "/Users/akbarali/Projects/questa/pages/championship/index.vue",
+    "chunkName": "pages/championship/index",
+    "_name": "_39085600"
+  },
+  {
+    "name": "demo___uz",
+    "path": "/uz/demo",
+    "component": "/Users/akbarali/Projects/questa/pages/demo/index.vue",
+    "chunkName": "pages/demo/index",
+    "_name": "_242abc3e"
+  },
+  {
+    "name": "exchange___uz",
+    "path": "/uz/exchange",
+    "component": "/Users/akbarali/Projects/questa/pages/exchange/index.vue",
+    "chunkName": "pages/exchange/index",
+    "_name": "_28ab0704"
+  },
+  {
+    "name": "rating___uz",
+    "path": "/uz/rating",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/index.vue",
+    "chunkName": "pages/rating/index",
+    "_name": "_a4246110"
+  },
+  {
+    "name": "referal___uz",
+    "path": "/uz/referal",
+    "component": "/Users/akbarali/Projects/questa/pages/referal/index.vue",
+    "chunkName": "pages/referal/index",
+    "_name": "_ab21a1f4"
+  },
+  {
+    "name": "settings___uz",
+    "path": "/uz/settings",
+    "component": "/Users/akbarali/Projects/questa/pages/settings/index.vue",
+    "chunkName": "pages/settings/index",
+    "_name": "_13722a7e"
+  },
+  {
+    "name": "surfing___uz",
+    "path": "/uz/surfing",
+    "component": "/Users/akbarali/Projects/questa/pages/surfing/index.vue",
+    "chunkName": "pages/surfing/index",
+    "_name": "_45505d27"
+  },
+  {
+    "name": "test___uz",
+    "path": "/uz/test",
+    "component": "/Users/akbarali/Projects/questa/pages/test/index.vue",
+    "chunkName": "pages/test/index",
+    "_name": "_58a8b42d"
+  },
+  {
+    "name": "admin-championship-create___us",
+    "path": "/admin/championship/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/championship/create/index.vue",
+    "chunkName": "pages/admin/championship/create/index",
+    "_name": "_18acf3fe"
+  },
+  {
+    "name": "admin-demotest-create___us",
+    "path": "/admin/demotest/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/create/index.vue",
+    "chunkName": "pages/admin/demotest/create/index",
+    "_name": "_62c7ed9e"
+  },
+  {
+    "name": "admin-news-create___us",
+    "path": "/admin/news/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/create/index.vue",
+    "chunkName": "pages/admin/news/create/index",
+    "_name": "_f4c121da"
+  },
+  {
+    "name": "admin-news-notification___us",
+    "path": "/admin/news/notification",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/notification/index.vue",
+    "chunkName": "pages/admin/news/notification/index",
+    "_name": "_0427e97c"
+  },
+  {
+    "name": "admin-question-audio___us",
+    "path": "/admin/question/audio",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/audio/index.vue",
+    "chunkName": "pages/admin/question/audio/index",
+    "_name": "_58374df0"
+  },
+  {
+    "name": "admin-question-create___us",
+    "path": "/admin/question/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/create/index.vue",
+    "chunkName": "pages/admin/question/create/index",
+    "_name": "_4bb4f340"
+  },
+  {
+    "name": "admin-question-excel___us",
+    "path": "/admin/question/excel",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/excel/index.vue",
+    "chunkName": "pages/admin/question/excel/index",
+    "_name": "_14f3aaa9"
+  },
+  {
+    "name": "admin-question-images___us",
+    "path": "/admin/question/images",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/images/index.vue",
+    "chunkName": "pages/admin/question/images/index",
+    "_name": "_22fbbcdc"
+  },
+  {
+    "name": "admin-surfing-create___us",
+    "path": "/admin/surfing/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/surfing/create/index.vue",
+    "chunkName": "pages/admin/surfing/create/index",
+    "_name": "_72710a7a"
+  },
+  {
+    "name": "admin-surfing-stat___us",
+    "path": "/admin/surfing/stat",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/surfing/stat/index.vue",
+    "chunkName": "pages/admin/surfing/stat/index",
+    "_name": "_5f5e9e92"
+  },
+  {
+    "name": "rating-championship-all___us",
+    "path": "/rating/championship/all",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/championship/all/index.vue",
+    "chunkName": "pages/rating/championship/all/index",
+    "_name": "_451a3dc4"
+  },
+  {
+    "name": "admin-championship___ru",
+    "path": "/ru/admin/championship",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/championship/index.vue",
+    "chunkName": "pages/admin/championship/index",
+    "_name": "_4337ecc0"
+  },
+  {
+    "name": "admin-demotest___ru",
+    "path": "/ru/admin/demotest",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/index.vue",
+    "chunkName": "pages/admin/demotest/index",
+    "_name": "_1ecd9f90"
+  },
+  {
+    "name": "admin-lang-question___ru",
+    "path": "/ru/admin/lang-question",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/lang-question/index.vue",
+    "chunkName": "pages/admin/lang-question/index",
+    "_name": "_4114d000"
+  },
+  {
+    "name": "admin-news___ru",
+    "path": "/ru/admin/news",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/index.vue",
+    "chunkName": "pages/admin/news/index",
+    "_name": "_22ea33ee"
+  },
+  {
+    "name": "admin-question___ru",
+    "path": "/ru/admin/question",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/index.vue",
+    "chunkName": "pages/admin/question/index",
+    "_name": "_c4c7ed7e"
+  },
+  {
+    "name": "admin-surfing___ru",
+    "path": "/ru/admin/surfing",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/surfing/index.vue",
+    "chunkName": "pages/admin/surfing/index",
+    "_name": "_5fed8e67"
+  },
+  {
+    "name": "auth-login___ru",
+    "path": "/ru/auth/login",
+    "component": "/Users/akbarali/Projects/questa/pages/auth/login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_54040cda"
+  },
+  {
+    "name": "auth-register___ru",
+    "path": "/ru/auth/register",
+    "component": "/Users/akbarali/Projects/questa/pages/auth/register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_7cb6b47c"
+  },
+  {
+    "name": "rating-championship___ru",
+    "path": "/ru/rating/championship",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/championship/index.vue",
+    "chunkName": "pages/rating/championship/index",
+    "_name": "_c7df8e9c"
+  },
+  {
+    "name": "rating-o___ru",
+    "path": "/ru/rating/o",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/o/index.vue",
+    "chunkName": "pages/rating/o/index",
+    "_name": "_111c0a58"
+  },
+  {
+    "name": "rating-referal___ru",
+    "path": "/ru/rating/referal",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/referal/index.vue",
+    "chunkName": "pages/rating/referal/index",
+    "_name": "_f12635d8"
+  },
+  {
+    "name": "admin-championship___uz",
+    "path": "/uz/admin/championship",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/championship/index.vue",
+    "chunkName": "pages/admin/championship/index",
+    "_name": "_4337ecc0"
+  },
+  {
+    "name": "admin-demotest___uz",
+    "path": "/uz/admin/demotest",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/index.vue",
+    "chunkName": "pages/admin/demotest/index",
+    "_name": "_1ecd9f90"
+  },
+  {
+    "name": "admin-lang-question___uz",
+    "path": "/uz/admin/lang-question",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/lang-question/index.vue",
+    "chunkName": "pages/admin/lang-question/index",
+    "_name": "_4114d000"
+  },
+  {
+    "name": "admin-news___uz",
+    "path": "/uz/admin/news",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/index.vue",
+    "chunkName": "pages/admin/news/index",
+    "_name": "_22ea33ee"
+  },
+  {
+    "name": "admin-question___uz",
+    "path": "/uz/admin/question",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/index.vue",
+    "chunkName": "pages/admin/question/index",
+    "_name": "_c4c7ed7e"
+  },
+  {
+    "name": "admin-surfing___uz",
+    "path": "/uz/admin/surfing",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/surfing/index.vue",
+    "chunkName": "pages/admin/surfing/index",
+    "_name": "_5fed8e67"
+  },
+  {
+    "name": "auth-login___uz",
+    "path": "/uz/auth/login",
+    "component": "/Users/akbarali/Projects/questa/pages/auth/login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_54040cda"
+  },
+  {
+    "name": "auth-register___uz",
+    "path": "/uz/auth/register",
+    "component": "/Users/akbarali/Projects/questa/pages/auth/register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_7cb6b47c"
+  },
+  {
+    "name": "rating-championship___uz",
+    "path": "/uz/rating/championship",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/championship/index.vue",
+    "chunkName": "pages/rating/championship/index",
+    "_name": "_c7df8e9c"
+  },
+  {
+    "name": "rating-o___uz",
+    "path": "/uz/rating/o",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/o/index.vue",
+    "chunkName": "pages/rating/o/index",
+    "_name": "_111c0a58"
+  },
+  {
+    "name": "rating-referal___uz",
+    "path": "/uz/rating/referal",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/referal/index.vue",
+    "chunkName": "pages/rating/referal/index",
+    "_name": "_f12635d8"
+  },
+  {
+    "name": "admin-news-notification-create___us",
+    "path": "/admin/news/notification/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/notification/create/index.vue",
+    "chunkName": "pages/admin/news/notification/create/index",
+    "_name": "_abdf1d82"
+  },
+  {
+    "name": "admin-question-audio-create___us",
+    "path": "/admin/question/audio/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/audio/create/index.vue",
+    "chunkName": "pages/admin/question/audio/create/index",
+    "_name": "_807f8e8e"
+  },
+  {
+    "name": "admin-question-excel-create___us",
+    "path": "/admin/question/excel/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/excel/create/index.vue",
+    "chunkName": "pages/admin/question/excel/create/index",
+    "_name": "_d8be0010"
+  },
+  {
+    "name": "admin-question-images-create___us",
+    "path": "/admin/question/images/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/images/create/index.vue",
+    "chunkName": "pages/admin/question/images/create/index",
+    "_name": "_98c6c336"
+  },
+  {
+    "name": "admin-championship-create___ru",
+    "path": "/ru/admin/championship/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/championship/create/index.vue",
+    "chunkName": "pages/admin/championship/create/index",
+    "_name": "_18acf3fe"
+  },
+  {
+    "name": "admin-demotest-create___ru",
+    "path": "/ru/admin/demotest/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/create/index.vue",
+    "chunkName": "pages/admin/demotest/create/index",
+    "_name": "_62c7ed9e"
+  },
+  {
+    "name": "admin-news-create___ru",
+    "path": "/ru/admin/news/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/create/index.vue",
+    "chunkName": "pages/admin/news/create/index",
+    "_name": "_f4c121da"
+  },
+  {
+    "name": "admin-news-notification___ru",
+    "path": "/ru/admin/news/notification",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/notification/index.vue",
+    "chunkName": "pages/admin/news/notification/index",
+    "_name": "_0427e97c"
+  },
+  {
+    "name": "admin-question-audio___ru",
+    "path": "/ru/admin/question/audio",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/audio/index.vue",
+    "chunkName": "pages/admin/question/audio/index",
+    "_name": "_58374df0"
+  },
+  {
+    "name": "admin-question-create___ru",
+    "path": "/ru/admin/question/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/create/index.vue",
+    "chunkName": "pages/admin/question/create/index",
+    "_name": "_4bb4f340"
+  },
+  {
+    "name": "admin-question-excel___ru",
+    "path": "/ru/admin/question/excel",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/excel/index.vue",
+    "chunkName": "pages/admin/question/excel/index",
+    "_name": "_14f3aaa9"
+  },
+  {
+    "name": "admin-question-images___ru",
+    "path": "/ru/admin/question/images",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/images/index.vue",
+    "chunkName": "pages/admin/question/images/index",
+    "_name": "_22fbbcdc"
+  },
+  {
+    "name": "admin-surfing-create___ru",
+    "path": "/ru/admin/surfing/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/surfing/create/index.vue",
+    "chunkName": "pages/admin/surfing/create/index",
+    "_name": "_72710a7a"
+  },
+  {
+    "name": "admin-surfing-stat___ru",
+    "path": "/ru/admin/surfing/stat",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/surfing/stat/index.vue",
+    "chunkName": "pages/admin/surfing/stat/index",
+    "_name": "_5f5e9e92"
+  },
+  {
+    "name": "rating-championship-all___ru",
+    "path": "/ru/rating/championship/all",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/championship/all/index.vue",
+    "chunkName": "pages/rating/championship/all/index",
+    "_name": "_451a3dc4"
+  },
+  {
+    "name": "admin-championship-create___uz",
+    "path": "/uz/admin/championship/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/championship/create/index.vue",
+    "chunkName": "pages/admin/championship/create/index",
+    "_name": "_18acf3fe"
+  },
+  {
+    "name": "admin-demotest-create___uz",
+    "path": "/uz/admin/demotest/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/create/index.vue",
+    "chunkName": "pages/admin/demotest/create/index",
+    "_name": "_62c7ed9e"
+  },
+  {
+    "name": "admin-news-create___uz",
+    "path": "/uz/admin/news/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/create/index.vue",
+    "chunkName": "pages/admin/news/create/index",
+    "_name": "_f4c121da"
+  },
+  {
+    "name": "admin-news-notification___uz",
+    "path": "/uz/admin/news/notification",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/notification/index.vue",
+    "chunkName": "pages/admin/news/notification/index",
+    "_name": "_0427e97c"
+  },
+  {
+    "name": "admin-question-audio___uz",
+    "path": "/uz/admin/question/audio",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/audio/index.vue",
+    "chunkName": "pages/admin/question/audio/index",
+    "_name": "_58374df0"
+  },
+  {
+    "name": "admin-question-create___uz",
+    "path": "/uz/admin/question/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/create/index.vue",
+    "chunkName": "pages/admin/question/create/index",
+    "_name": "_4bb4f340"
+  },
+  {
+    "name": "admin-question-excel___uz",
+    "path": "/uz/admin/question/excel",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/excel/index.vue",
+    "chunkName": "pages/admin/question/excel/index",
+    "_name": "_14f3aaa9"
+  },
+  {
+    "name": "admin-question-images___uz",
+    "path": "/uz/admin/question/images",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/images/index.vue",
+    "chunkName": "pages/admin/question/images/index",
+    "_name": "_22fbbcdc"
+  },
+  {
+    "name": "admin-surfing-create___uz",
+    "path": "/uz/admin/surfing/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/surfing/create/index.vue",
+    "chunkName": "pages/admin/surfing/create/index",
+    "_name": "_72710a7a"
+  },
+  {
+    "name": "admin-surfing-stat___uz",
+    "path": "/uz/admin/surfing/stat",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/surfing/stat/index.vue",
+    "chunkName": "pages/admin/surfing/stat/index",
+    "_name": "_5f5e9e92"
+  },
+  {
+    "name": "rating-championship-all___uz",
+    "path": "/uz/rating/championship/all",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/championship/all/index.vue",
+    "chunkName": "pages/rating/championship/all/index",
+    "_name": "_451a3dc4"
+  },
+  {
+    "name": "admin-news-notification-create___ru",
+    "path": "/ru/admin/news/notification/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/notification/create/index.vue",
+    "chunkName": "pages/admin/news/notification/create/index",
+    "_name": "_abdf1d82"
+  },
+  {
+    "name": "admin-question-audio-create___ru",
+    "path": "/ru/admin/question/audio/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/audio/create/index.vue",
+    "chunkName": "pages/admin/question/audio/create/index",
+    "_name": "_807f8e8e"
+  },
+  {
+    "name": "admin-question-excel-create___ru",
+    "path": "/ru/admin/question/excel/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/excel/create/index.vue",
+    "chunkName": "pages/admin/question/excel/create/index",
+    "_name": "_d8be0010"
+  },
+  {
+    "name": "admin-question-images-create___ru",
+    "path": "/ru/admin/question/images/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/images/create/index.vue",
+    "chunkName": "pages/admin/question/images/create/index",
+    "_name": "_98c6c336"
+  },
+  {
+    "name": "admin-news-notification-create___uz",
+    "path": "/uz/admin/news/notification/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/notification/create/index.vue",
+    "chunkName": "pages/admin/news/notification/create/index",
+    "_name": "_abdf1d82"
+  },
+  {
+    "name": "admin-question-audio-create___uz",
+    "path": "/uz/admin/question/audio/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/audio/create/index.vue",
+    "chunkName": "pages/admin/question/audio/create/index",
+    "_name": "_807f8e8e"
+  },
+  {
+    "name": "admin-question-excel-create___uz",
+    "path": "/uz/admin/question/excel/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/excel/create/index.vue",
+    "chunkName": "pages/admin/question/excel/create/index",
+    "_name": "_d8be0010"
+  },
+  {
+    "name": "admin-question-images-create___uz",
+    "path": "/uz/admin/question/images/create",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/images/create/index.vue",
+    "chunkName": "pages/admin/question/images/create/index",
+    "_name": "_98c6c336"
+  },
+  {
+    "name": "admin-news-notification-edit-id___ru",
+    "path": "/ru/admin/news/notification/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/notification/edit/_id.vue",
+    "chunkName": "pages/admin/news/notification/edit/_id",
+    "_name": "_1f140075"
+  },
+  {
+    "name": "admin-question-audio-edit-id___ru",
+    "path": "/ru/admin/question/audio/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/audio/edit/_id.vue",
+    "chunkName": "pages/admin/question/audio/edit/_id",
+    "_name": "_097694ef"
+  },
+  {
+    "name": "admin-news-notification-edit-id___uz",
+    "path": "/uz/admin/news/notification/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/notification/edit/_id.vue",
+    "chunkName": "pages/admin/news/notification/edit/_id",
+    "_name": "_1f140075"
+  },
+  {
+    "name": "admin-question-audio-edit-id___uz",
+    "path": "/uz/admin/question/audio/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/audio/edit/_id.vue",
+    "chunkName": "pages/admin/question/audio/edit/_id",
+    "_name": "_097694ef"
+  },
+  {
+    "name": "admin-news-notification-edit-id___us",
+    "path": "/admin/news/notification/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/notification/edit/_id.vue",
+    "chunkName": "pages/admin/news/notification/edit/_id",
+    "_name": "_1f140075"
+  },
+  {
+    "name": "admin-question-audio-edit-id___us",
+    "path": "/admin/question/audio/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/audio/edit/_id.vue",
+    "chunkName": "pages/admin/question/audio/edit/_id",
+    "_name": "_097694ef"
+  },
+  {
+    "name": "admin-championship-edit-id___ru",
+    "path": "/ru/admin/championship/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/championship/edit/_id.vue",
+    "chunkName": "pages/admin/championship/edit/_id",
+    "_name": "_3869c637"
+  },
+  {
+    "name": "admin-demotest-category-create-id___ru",
+    "path": "/ru/admin/demotest/category-create/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/category-create/_id.vue",
+    "chunkName": "pages/admin/demotest/category-create/_id",
+    "_name": "_3a1bf094"
+  },
+  {
+    "name": "admin-demotest-edit-id___ru",
+    "path": "/ru/admin/demotest/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/edit/_id.vue",
+    "chunkName": "pages/admin/demotest/edit/_id",
+    "_name": "_ec053d32"
+  },
+  {
+    "name": "admin-demotest-view-id___ru",
+    "path": "/ru/admin/demotest/view/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/view/_id.vue",
+    "chunkName": "pages/admin/demotest/view/_id",
+    "_name": "_3e2f39fc"
+  },
+  {
+    "name": "admin-news-edit-id___ru",
+    "path": "/ru/admin/news/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/edit/_id.vue",
+    "chunkName": "pages/admin/news/edit/_id",
+    "_name": "_03d30849"
+  },
+  {
+    "name": "admin-question-edit-id___ru",
+    "path": "/ru/admin/question/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/edit/_id.vue",
+    "chunkName": "pages/admin/question/edit/_id",
+    "_name": "_207ace16"
+  },
+  {
+    "name": "admin-question-view-id___ru",
+    "path": "/ru/admin/question/view/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/view/_id.vue",
+    "chunkName": "pages/admin/question/view/_id",
+    "_name": "_7765cfb1"
+  },
+  {
+    "name": "admin-surfing-edit-id___ru",
+    "path": "/ru/admin/surfing/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/surfing/edit/_id.vue",
+    "chunkName": "pages/admin/surfing/edit/_id",
+    "_name": "_2d106f30"
+  },
+  {
+    "name": "rating-championship-view-id___ru",
+    "path": "/ru/rating/championship/view/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/championship/view/_id.vue",
+    "chunkName": "pages/rating/championship/view/_id",
+    "_name": "_ebfac2c0"
+  },
+  {
+    "name": "admin-championship-edit-id___uz",
+    "path": "/uz/admin/championship/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/championship/edit/_id.vue",
+    "chunkName": "pages/admin/championship/edit/_id",
+    "_name": "_3869c637"
+  },
+  {
+    "name": "admin-demotest-category-create-id___uz",
+    "path": "/uz/admin/demotest/category-create/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/category-create/_id.vue",
+    "chunkName": "pages/admin/demotest/category-create/_id",
+    "_name": "_3a1bf094"
+  },
+  {
+    "name": "admin-demotest-edit-id___uz",
+    "path": "/uz/admin/demotest/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/edit/_id.vue",
+    "chunkName": "pages/admin/demotest/edit/_id",
+    "_name": "_ec053d32"
+  },
+  {
+    "name": "admin-demotest-view-id___uz",
+    "path": "/uz/admin/demotest/view/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/view/_id.vue",
+    "chunkName": "pages/admin/demotest/view/_id",
+    "_name": "_3e2f39fc"
+  },
+  {
+    "name": "admin-news-edit-id___uz",
+    "path": "/uz/admin/news/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/edit/_id.vue",
+    "chunkName": "pages/admin/news/edit/_id",
+    "_name": "_03d30849"
+  },
+  {
+    "name": "admin-question-edit-id___uz",
+    "path": "/uz/admin/question/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/edit/_id.vue",
+    "chunkName": "pages/admin/question/edit/_id",
+    "_name": "_207ace16"
+  },
+  {
+    "name": "admin-question-view-id___uz",
+    "path": "/uz/admin/question/view/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/view/_id.vue",
+    "chunkName": "pages/admin/question/view/_id",
+    "_name": "_7765cfb1"
+  },
+  {
+    "name": "admin-surfing-edit-id___uz",
+    "path": "/uz/admin/surfing/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/surfing/edit/_id.vue",
+    "chunkName": "pages/admin/surfing/edit/_id",
+    "_name": "_2d106f30"
+  },
+  {
+    "name": "rating-championship-view-id___uz",
+    "path": "/uz/rating/championship/view/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/championship/view/_id.vue",
+    "chunkName": "pages/rating/championship/view/_id",
+    "_name": "_ebfac2c0"
+  },
+  {
+    "name": "admin-championship-edit-id___us",
+    "path": "/admin/championship/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/championship/edit/_id.vue",
+    "chunkName": "pages/admin/championship/edit/_id",
+    "_name": "_3869c637"
+  },
+  {
+    "name": "admin-demotest-category-create-id___us",
+    "path": "/admin/demotest/category-create/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/category-create/_id.vue",
+    "chunkName": "pages/admin/demotest/category-create/_id",
+    "_name": "_3a1bf094"
+  },
+  {
+    "name": "admin-demotest-edit-id___us",
+    "path": "/admin/demotest/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/edit/_id.vue",
+    "chunkName": "pages/admin/demotest/edit/_id",
+    "_name": "_ec053d32"
+  },
+  {
+    "name": "admin-demotest-view-id___us",
+    "path": "/admin/demotest/view/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/demotest/view/_id.vue",
+    "chunkName": "pages/admin/demotest/view/_id",
+    "_name": "_3e2f39fc"
+  },
+  {
+    "name": "admin-news-edit-id___us",
+    "path": "/admin/news/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/news/edit/_id.vue",
+    "chunkName": "pages/admin/news/edit/_id",
+    "_name": "_03d30849"
+  },
+  {
+    "name": "admin-question-edit-id___us",
+    "path": "/admin/question/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/edit/_id.vue",
+    "chunkName": "pages/admin/question/edit/_id",
+    "_name": "_207ace16"
+  },
+  {
+    "name": "admin-question-view-id___us",
+    "path": "/admin/question/view/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/question/view/_id.vue",
+    "chunkName": "pages/admin/question/view/_id",
+    "_name": "_7765cfb1"
+  },
+  {
+    "name": "admin-surfing-edit-id___us",
+    "path": "/admin/surfing/edit/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/admin/surfing/edit/_id.vue",
+    "chunkName": "pages/admin/surfing/edit/_id",
+    "_name": "_2d106f30"
+  },
+  {
+    "name": "rating-championship-view-id___us",
+    "path": "/rating/championship/view/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/rating/championship/view/_id.vue",
+    "chunkName": "pages/rating/championship/view/_id",
+    "_name": "_ebfac2c0"
+  },
+  {
+    "name": "surfing-view-id___ru",
+    "path": "/ru/surfing/view/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/surfing/view/_id.vue",
+    "chunkName": "pages/surfing/view/_id",
+    "_name": "_69552a0b"
+  },
+  {
+    "name": "surfing-view-id___uz",
+    "path": "/uz/surfing/view/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/surfing/view/_id.vue",
+    "chunkName": "pages/surfing/view/_id",
+    "_name": "_69552a0b"
+  },
+  {
+    "name": "demo-slug___ru",
+    "path": "/ru/demo/:slug",
+    "component": "/Users/akbarali/Projects/questa/pages/demo/_slug.vue",
+    "chunkName": "pages/demo/_slug",
+    "_name": "_22741af6"
+  },
+  {
+    "name": "ref_id-slug___ru",
+    "path": "/ru/ref_id/:slug?",
+    "component": "/Users/akbarali/Projects/questa/pages/ref_id/_slug.vue",
+    "chunkName": "pages/ref_id/_slug",
+    "_name": "_f981874c"
+  },
+  {
+    "name": "users-id___ru",
+    "path": "/ru/users/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/users/_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_438ef96a"
+  },
+  {
+    "name": "surfing-view-id___us",
+    "path": "/surfing/view/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/surfing/view/_id.vue",
+    "chunkName": "pages/surfing/view/_id",
+    "_name": "_69552a0b"
+  },
+  {
+    "name": "demo-slug___uz",
+    "path": "/uz/demo/:slug",
+    "component": "/Users/akbarali/Projects/questa/pages/demo/_slug.vue",
+    "chunkName": "pages/demo/_slug",
+    "_name": "_22741af6"
+  },
+  {
+    "name": "ref_id-slug___uz",
+    "path": "/uz/ref_id/:slug?",
+    "component": "/Users/akbarali/Projects/questa/pages/ref_id/_slug.vue",
+    "chunkName": "pages/ref_id/_slug",
+    "_name": "_f981874c"
+  },
+  {
+    "name": "users-id___uz",
+    "path": "/uz/users/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/users/_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_438ef96a"
+  },
+  {
+    "name": "demo-slug___us",
+    "path": "/demo/:slug",
+    "component": "/Users/akbarali/Projects/questa/pages/demo/_slug.vue",
+    "chunkName": "pages/demo/_slug",
+    "_name": "_22741af6"
+  },
+  {
+    "name": "ref_id-slug___us",
+    "path": "/ref_id/:slug?",
+    "component": "/Users/akbarali/Projects/questa/pages/ref_id/_slug.vue",
+    "chunkName": "pages/ref_id/_slug",
+    "_name": "_f981874c"
+  },
+  {
+    "name": "users-id___us",
+    "path": "/users/:id?",
+    "component": "/Users/akbarali/Projects/questa/pages/users/_id.vue",
+    "chunkName": "pages/users/_id",
+    "_name": "_438ef96a"
+  },
+  {
+    "name": "index___us",
+    "path": "/",
+    "component": "/Users/akbarali/Projects/questa/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1e6ba92c"
+  }
+]
